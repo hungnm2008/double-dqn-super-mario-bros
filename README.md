@@ -5,3 +5,5 @@ game: Super Mario Bros. We will be using the gym-super-mario-bros environment, w
 of the OpenAI gym library. 
 
 Note: Run the code with GPU
+
+![Result](result.gif)
